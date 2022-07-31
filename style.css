@@ -1,0 +1,24 @@
+
+.left-container{
+width:50%;
+height: 450px;
+margin-top:100px ;
+position: absolute;
+}
+.right-container{
+    margin-right: 100px;
+    margin-top: 300px;
+    display: table;
+    position: absolute;
+    margin-left:50% ;
+    width: 15%;
+    height: auto;
+    padding: 30px 100px;
+    background-color:#07bab6;
+}
+#task{
+   padding: 10px; 
+   background-color: aliceblue;
+   width: 195px;
+   margin: 10px 0px;
+}
