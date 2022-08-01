@@ -30,11 +30,10 @@ position: absolute;
 @media screen and (max-width: 700px) {
     .right-container{
         margin-top: 400px;
-        margin-left:10% ;
-        margin-right: 10%;
-        width: 15%;
-        height: auto;
-        padding: 30px 100px;
+        margin-left:8% ;
+        margin-right: 8%;
+        width: auto;
+        padding: 30px 30px;
         background-color:#07bab6;
     } 
     .left-container{
@@ -44,8 +43,8 @@ position: absolute;
         position: absolute;
         }
         .img{
-            width: 400px;
-         margin-left: 50px;
+            width: 350px;
+         margin-left: 7%;
         }
 }
 @media (min-width: 700px) and (max-width: 1300px) {
