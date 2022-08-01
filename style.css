@@ -27,3 +27,44 @@ position: absolute;
 .delete{
     margin-left: 3rem;
 }
+@media screen and (max-width: 800px) {
+    .right-container{
+        margin-top: 400px;
+        margin-left:10% ;
+        width: 15%;
+        height: auto;
+        padding: 30px 100px;
+        background-color:#07bab6;
+    } 
+    .left-container{
+        width:20%;
+        height: 450px;
+        margin-top:10px ;
+        position: absolute;
+        }
+        .img{
+            width: 400px;
+         margin-left: 50px;
+        }
+}
+@media (min-width: 800px) and (max-width: 1300px) {
+    .right-container{
+        margin-top: 400px;
+        margin-left:15% ;
+        width: 35%;
+        height: auto;
+        padding: 30px 100px;
+        background-color:#9ba7a6;
+    } 
+    .left-container{
+        width:20%;
+        height: 450px;
+        margin-left: 15%;
+        margin-top:10px ;
+        position: absolute;
+        }
+        .img{
+            width: 500px;
+         margin-left: 50px;
+        }
+}
