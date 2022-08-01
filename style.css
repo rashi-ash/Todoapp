@@ -18,7 +18,12 @@ position: absolute;
 }
 #task{
    padding: 10px; 
-   background-color: aliceblue;
    width: 195px;
    margin: 10px 0px;
+}
+#task:hover{
+    background-color: aliceblue;
+}
+.delete{
+    margin-left: 3rem;
 }
